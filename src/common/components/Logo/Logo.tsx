@@ -11,7 +11,7 @@ export const Logo: FC<LogoType> = memo(({ img }) => {
     <div className={s.logoContainer}>
       <a
         className={s.logoLink}
-        href={'https://github.com/Pikadorius/project_cards'}
+        href={'https://github.com/aleksei-gazov/cardify'}
         target={'_blank'}
         rel="noreferrer"
       >
