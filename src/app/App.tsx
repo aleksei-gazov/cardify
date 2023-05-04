@@ -31,9 +31,9 @@ function App() {
   return (
     <div className={modalType !== 'idle' ? 'app modalActive' : 'app'}>
       <Header />
-      <Modal modalType={modalType} />
+      {/*<Modal modalType={modalType} />*/}
       <Pages />
-      <SimpleSnackbar />
+      {/*<SimpleSnackbar />*/}
       {appStatus === 'loading' && <Loader />}
     </div>
   )
