@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/cardify/static/css/main.7db6c33b.css",
+    "main.js": "/cardify/static/js/main.54bfafdb.js",
+    "static/js/787.42edc0ed.chunk.js": "/cardify/static/js/787.42edc0ed.chunk.js",
+    "static/media/avatarBig.png": "/cardify/static/media/avatarBig.5974632cbf5d7edfaf82.png",
+    "static/media/star.png": "/cardify/static/media/star.190d870d386afd29523a.png",
+    "static/media/logo.png": "/cardify/static/media/logo.baaa255bcb20c82eb32e.png",
+    "static/media/starFull.png": "/cardify/static/media/starFull.d0cbd94e0a4a62fc2bf4.png",
+    "static/media/emptyPack.png": "/cardify/static/media/emptyPack.e02a877fd69d7c8e984e.png",
+    "static/media/defaultPackCover.png": "/cardify/static/media/defaultPackCover.ccd485605c656341ff4d.png",
+    "static/media/filterRemove.svg": "/cardify/static/media/filterRemove.7f0d40d6feda4fe746870365c9e94454.svg",
+    "static/media/Delete.svg": "/cardify/static/media/Delete.5074d598f7a8970a63dfa17b33aebe95.svg",
+    "static/media/eye-close.svg": "/cardify/static/media/eye-close.27cbb7284ab275283eb5b100055ab46e.svg",
+    "static/media/Edit.svg": "/cardify/static/media/Edit.22b87cfecc031e713e076cd779cde7e3.svg",
+    "static/media/pen.svg": "/cardify/static/media/pen.a169cd90c950b39da314c5bb65c8ed51.svg",
+    "static/media/cameraIcon.svg": "/cardify/static/media/cameraIcon.90ad4ef14262e7bebbb5e1c2b2223f5a.svg",
+    "static/media/blockUser.svg": "/cardify/static/media/blockUser.e2813cffa430b17549bd4caa4387f9d7.svg",
+    "static/media/teacher.svg": "/cardify/static/media/teacher.61316ef9f9bb14acdf57faf399645aeb.svg",
+    "static/media/submit.svg": "/cardify/static/media/submit.9e79f7080b9ba4968c9eb10360394020.svg",
+    "static/media/search.svg": "/cardify/static/media/search.4b251b6bc34f5014a8e3d79305fc2d08.svg",
+    "index.html": "/cardify/index.html",
+    "static/media/logout.svg": "/cardify/static/media/logout.4631dbd136b384a8118857f16dae43d5.svg",
+    "static/media/sortTable.svg": "/cardify/static/media/sortTable.626b9c7d56882f9166389facec8396a5.svg",
+    "static/media/dots.svg": "/cardify/static/media/dots.454c9fff895b438b59287e345d77d32b.svg",
+    "static/media/eye.svg": "/cardify/static/media/eye.2d50f92250443e4d80c88f2bb50e7eb9.svg",
+    "static/media/arrow.svg": "/cardify/static/media/arrow.19c7bd8ee7d32ca8451f1de3f6803354.svg",
+    "main.7db6c33b.css.map": "/cardify/static/css/main.7db6c33b.css.map",
+    "main.54bfafdb.js.map": "/cardify/static/js/main.54bfafdb.js.map",
+    "787.42edc0ed.chunk.js.map": "/cardify/static/js/787.42edc0ed.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7db6c33b.css",
+    "static/js/main.54bfafdb.js"
+  ]
+}
