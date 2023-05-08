@@ -1,6 +1,6 @@
 {
   "name": "project_cards",
-  "homepage": "https://aleksei-gazov.github.io/project_cards",
+  "homepage": "https://aleksei-gazov.github.io/cardify",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
